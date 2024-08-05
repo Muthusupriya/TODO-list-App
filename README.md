@@ -1,4 +1,4 @@
-# Calculator App
+# TO DO App
 A simple To-Do List application built using HTML, CSS, and JavaScript. It allows users to manage their tasks by adding, editing, deleting, and marking them as completed.
 
 ## Features
